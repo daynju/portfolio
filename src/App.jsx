@@ -5,8 +5,8 @@ function App() {
     <div>
       <Navbar />
 
-      <h1>My Portfolio</h1>
-      <p>Hi, I'm a Web Developer.</p>
+      <h1>Salah Gay</h1>
+      <img src="/salah.jpeg" alt="Salah" width={150} height={150} />
     </div>
   );
 }
